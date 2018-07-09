@@ -1,4 +1,3 @@
-#python code to generate prime nuber for given interval
 print("Enter  a number")
 n=input()
 def primegen(a):
